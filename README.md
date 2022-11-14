@@ -1,4 +1,4 @@
-# Africa-Data-School-Content
+# My ADS Content
 
 | Section | Topic | Notes | Projects |
 |---------|-------|-------|----------|
