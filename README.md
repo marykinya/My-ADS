@@ -1,6 +1,6 @@
 # Africa-Data-School-Content
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| Section | Topic | Main Project | Notes |
+|---------|-------|--------------|-------|
+| 01 | Version Control | N/A | Notes |
+
