@@ -2,5 +2,5 @@
 
 | Section | Topic | Main Project | Notes |
 |---------|-------|--------------|-------|
-| 01 | Version Control | N/A | Notes |
+| 001 | Version Control | N/A | Notes |
 
